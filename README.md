@@ -28,6 +28,8 @@ Throughout this course I have learned many things, some of which I cannot show j
 
 When arriving to the website, you will immediately see various options that you can click on, specifically tailoring to what you are looking to accomplish.
 
+![WebsiteIMG](seo-module1-challenge/assets/images/Module1Screenshot.jpeg)
+
 2] **Navigation**
 
 While looking throughtout the website you will see features that we provide for your every need as well as a brief summary of what you can expect with each service. 
